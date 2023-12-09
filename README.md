@@ -26,6 +26,10 @@ Este jogo inclui efeitos sonoros para uma experiência mais imersiva. Os efeitos
 
 Certifique-se de que os arquivos de áudio necessários estejam localizados na pasta "audios" no mesmo diretório do arquivo `main.py`.
 
+Clique com o botao direito do mouse na pasta audios, escolha a opição caminho da pasta, em seguida 
+cole na Variavel path_audio.
+ex: path_audio = '/home/meu/caminho/jokenpo/audios/'
+
 ## Contribuição
 
 Sinta-se à vontade para contribuir para este projeto, relatando problemas ou criando solicitações pull.
